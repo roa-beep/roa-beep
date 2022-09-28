@@ -11,7 +11,7 @@
 
 
 ### 📊 My Github Stats
-![Max's github stats](https://github-readme-stats.vercel.app/api?username=roa-beep&hide=prs&theme=dark)
+![Roa's github stats](https://github-readme-stats.vercel.app/api?username=roa-beep&hide=prs&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roa-beep&layout=compact&theme=dark)
 
 ### 🕹️ Featured
