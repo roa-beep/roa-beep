@@ -8,7 +8,7 @@
 
 [![Linkedin: Roa Brahimi](https://img.shields.io/badge/-Roa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/r0a/)](https://www.linkedin.com/in/r0a/)
 [![GitHub roa-beep](https://img.shields.io/github/followers/roa-beep?label=follow&style=social)](https://github.com/roa-beep)
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=roa-beep.visitor-badge)
 
 ### 📊 My Github Stats
 ![Roa's github stats](https://github-readme-stats.vercel.app/api?username=roa-beep&hide=prs&theme=dark)
