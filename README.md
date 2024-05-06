@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=roa-beep&color=ff69b4)
 
 ### 📊 My Github Stats
-![Roa's github stats](https://github-readme-stats.vercel.app/api?username=roa-beep&theme=dark&hide=contribs)
+![Roa's github stats](https://github-readme-stats.vercel.app/api?username=roa-beep&show_icons=true&show=prs_merged,prs_merged_percentage&theme=dark&hide=contribs&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roa-beep&hide=html&layout=compact&theme=dark)
 
 
