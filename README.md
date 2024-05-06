@@ -12,7 +12,7 @@
 
 ### 📊 My Github Stats
 ![Roa's github stats](https://github-readme-stats.vercel.app/api?username=roa-beep&show_icons=true&show=prs_merged,prs_merged_percentage&theme=dark&hide=contribs&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roa-beep&hide=html&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roa-beep&hide=html,css&layout=compact&theme=dark)
 
 
 ### 🕹️ Featured
