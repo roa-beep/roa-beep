@@ -15,13 +15,6 @@
 
 ### 📊 My Github Stats
 ![Roa's github stats](https://github-readme-stats-roa-beep.vercel.app/api?username=roa-beep&show_icons=true&show=prs_merged,prs_merged_percentage&theme=dark&hide=contribs&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roa-beep&hide=html,css&layout=compact&theme=dark)
-
-
-### 🕹️ Featured
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=roa-beep&repo=hospital-command-line-app&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=roa-beep&repo=CSCB20-Course-Website-Redesign&theme=dark)
-
 
 <!--END_SECTION:waka-->
 
